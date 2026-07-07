@@ -5,19 +5,8 @@ This repository contains two recommendation system implementations using differe
 1. **Content-Based Recommendation**
 2. **Collaborative Filtering using Matrix Factorization**
 
-The goal of this project is to explore and compare different recommendation techniques on two public movie datasets.
+The goal of this project is to implement, explore and compare different recommendation techniques on two public movie datasets.
 
----
-
-## Project Structure
-
-```
-├── Content_Based_Recommendation.ipynb
-├── Matrix_Factorization.ipynb
-├── README.md
-```
-
----
 
 # 1. Content-Based Recommendation
 
