@@ -108,6 +108,6 @@ These predicted ratings can then be used to recommend movies with the highest es
 ## Future Improvements
 
 
-* Two-Tower
+* Two-Tower (Currently Developing this model)
 * Hybrid Recommendation System
 * Neural Collaborative Filtering
