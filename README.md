@@ -58,6 +58,8 @@ The model is trained by experimenting with different hyperparameters, including:
 * Number of latent factors (K)
 * Learning rate
 * Number of training epochs
+* Regularization coefficient (lambda_reg)
+
 
 The objective is to minimize the prediction error (RMSE) on unseen ratings.
 
