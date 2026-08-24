@@ -84,7 +84,7 @@ These predicted ratings can then be used to recommend movies with the highest es
 
 * Matrix Factorization
 * Stochastic Gradient Descent (SGD)
-* RMSE Evaluation
+* RMSE & MAE Evaluation
 
 ---
 
