@@ -5,7 +5,7 @@ This repository contains two recommendation system implementations using differe
 1. **Content-Based Recommendation**
 2. **Collaborative Filtering using Matrix Factorization**
 
-The aim of this project is to implement, explore and compare different recommendation techniques on two public movie datasets.
+The aim of this project is to implement, explore and compare different recommendation techniques and room for potential improvements on two public movie datasets.
 
 
 # 1. Content-Based Recommendation
@@ -26,7 +26,7 @@ The following approaches are explored:
 * Word Embeddings
 * Sentence Transformers (SBERT)
 
-For every relevant column, the best-performing embedding technique is selected. The resulting feature vectors are then concatenated into a single representation for each movie.
+For each relevant column, the best-performing embedding technique is selected. The resulting feature vectors are then concatenated into a single representation for each movie.
 
 Finally, **Cosine Similarity** is used to measure the similarity between movie vectors.
 
